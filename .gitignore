@@ -19,3 +19,5 @@ result/
 pdf/
 kg_visual/
 umls_data/
+
+.vscode/
