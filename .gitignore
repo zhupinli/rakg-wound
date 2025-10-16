@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# Log files
+*.log
+
+# Data files (如果你的 raw_data 或 result 文件夹很大或包含敏感信息)
+raw_data/
+result/
+pdf/
+kg_visual/
+umls_data/

@@ -1,0 +1,306 @@
+[
+    {
+        "conceptId": "900000000000441003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000012004",
+        "fsn": {
+            "term": "SNOMED CT Model Component (metadata)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "SNOMED CT Model Component",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "900000000000441003"
+    },
+    {
+        "conceptId": "419891008",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Record artifact (record artifact)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Record artifact",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "419891008"
+    },
+    {
+        "conceptId": "410607006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Organism (organism)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Organism",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "410607006"
+    },
+    {
+        "conceptId": "404684003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Clinical finding (finding)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Clinical finding",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "404684003"
+    },
+    {
+        "conceptId": "373873005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Pharmaceutical / biologic product (product)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Pharmaceutical / biologic product",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "373873005"
+    },
+    {
+        "conceptId": "370115009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Special concept (special concept)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Special concept",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "370115009"
+    },
+    {
+        "conceptId": "363787002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Observable entity (observable entity)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Observable entity",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "363787002"
+    },
+    {
+        "conceptId": "362981000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Qualifier value (qualifier value)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Qualifier value",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "362981000"
+    },
+    {
+        "conceptId": "308916002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Environment or geographical location (environment / location)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Environment or geographical location",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "308916002"
+    },
+    {
+        "conceptId": "272379006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Event (event)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Event",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "272379006"
+    },
+    {
+        "conceptId": "260787004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Physical object (physical object)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Physical object",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "260787004"
+    },
+    {
+        "conceptId": "254291000",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Staging and scales (staging scale)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Staging and scales",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "254291000"
+    },
+    {
+        "conceptId": "243796009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Situation with explicit context (situation)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Situation with explicit context",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "243796009"
+    },
+    {
+        "conceptId": "123038009",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Specimen (specimen)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Specimen",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "123038009"
+    },
+    {
+        "conceptId": "123037004",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Body structure (body structure)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Body structure",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "123037004"
+    },
+    {
+        "conceptId": "105590001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Substance (substance)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Substance",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "105590001"
+    },
+    {
+        "conceptId": "78621006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Physical force (physical force)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Physical force",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "78621006"
+    },
+    {
+        "conceptId": "71388002",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Procedure (procedure)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Procedure",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "71388002"
+    },
+    {
+        "conceptId": "48176007",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Social context (social concept)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Social context",
+            "lang": "en"
+        },
+        "isLeafInferred": false,
+        "id": "48176007"
+    }
+]

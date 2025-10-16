@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Neo4j Graph Visualization</title>
+    <style>
+        html, body { height: 100%; margin: 0; }
+        .graph-container {
+            border: 1px solid #ccc;
+            margin: 20px auto;
+            width: 100%; /* 匹配后端设置的宽度 */
+            height: 100%;
+            background-color: whitesmoke;
+        }
+    </style>
+</head>
+<body>
+    <!-- <h1>rakg result</h1> -->
+    <div class="graph-container">
+        {{ graph_html | safe }}
+    </div>
+</body>
+</html>

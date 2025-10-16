@@ -1,0 +1,77 @@
+[
+    {
+        "conceptId": "417746004",
+        "active": true,
+        "definitionStatus": "FULLY_DEFINED",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Traumatic injury (disorder)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Traumatic injury",
+            "lang": "en"
+        },
+        "id": "417746004"
+    },
+    {
+        "conceptId": "417163006",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Traumatic or non-traumatic injury (disorder)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Traumatic or non-traumatic injury",
+            "lang": "en"
+        },
+        "id": "417163006"
+    },
+    {
+        "conceptId": "404684003",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Clinical finding (finding)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Clinical finding",
+            "lang": "en"
+        },
+        "id": "404684003"
+    },
+    {
+        "conceptId": "138875005",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "SNOMED CT Concept (SNOMED RT+CTV3)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "SNOMED CT Concept",
+            "lang": "en"
+        },
+        "id": "138875005"
+    },
+    {
+        "conceptId": "64572001",
+        "active": true,
+        "definitionStatus": "PRIMITIVE",
+        "moduleId": "900000000000207008",
+        "fsn": {
+            "term": "Disease (disorder)",
+            "lang": "en"
+        },
+        "pt": {
+            "term": "Disease",
+            "lang": "en"
+        },
+        "id": "64572001"
+    }
+]
